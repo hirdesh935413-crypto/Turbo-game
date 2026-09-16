@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GameTurboPro"
+        parent="Theme.Material3.Dark.NoActionBar">
+
+        <item name="android:fontFamily">sans</item>
+
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+
+        <item name="android:windowLightStatusBar">false</item>
+
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorSecondary">@color/accent2</item>
+
+    </style>
+
+</resources>
