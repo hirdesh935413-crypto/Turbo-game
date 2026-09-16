@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="HOME" />
+
+    <item
+        android:id="@+id/nav_boost"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="BOOST" />
+
+    <item
+        android:id="@+id/nav_dpi"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="DPI" />
+
+    <item
+        android:id="@+id/nav_games"
+        android:icon="@android:drawable/ic_menu_slideshow"
+        android:title="GAMES" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="SETTINGS" />
+
+</menu>
